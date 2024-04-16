@@ -2,7 +2,7 @@
 # Exercise 12: Boggle
 # By: Mor Cohen
 
-import ex12_utils as ex
+import utils as ex
 import tkinter as tk
 from boggle_helper import *
 
